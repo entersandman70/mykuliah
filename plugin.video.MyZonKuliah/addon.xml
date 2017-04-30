@@ -9,7 +9,7 @@
     <import addon="script.module.addon.common" version="2.0.0"/>
     <import addon="plugin.video.youtube" version="5.0.0"/>
   </requires>
-    <extension point="xbmc.python.pluginsource" library="myzon.py">
+    <extension point="xbmc.python.pluginsource" library="https://github.com/entersandman70/mykuliah/blob/master/myzon.py">
     <provides>video</provides>
 	 </extension>
   <extension point="xbmc.addon.metadata">
